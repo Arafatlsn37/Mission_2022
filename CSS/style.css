@@ -71,7 +71,7 @@ body{
 container2
 */
 .container2{
-  width: 80%;
+  width: 75%;
   height: auto;
   margin: auto;
   display: block;
@@ -262,16 +262,11 @@ container 4
   font-size: 1.1rem;
   font-weight: 600;
 }
-
-.container5{
-  padding-bottom: 100px;
-}
-
 .container4 .container4-child2{
   width: 30%;
   float: left;
   overflow: hidden;
-  margin-left: 5%;
+  margin-left: 10%;
 }
 .container4-child2 img{
   width: 100%;
