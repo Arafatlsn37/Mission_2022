@@ -322,6 +322,7 @@ container6
   background: black;
   height: 140px;
   overflow: hidden;
+  margin-top: 35px;
 }
 .container6 .all-text{
   width: 100%;
