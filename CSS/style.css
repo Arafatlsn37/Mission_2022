@@ -66,3 +66,102 @@ body{
   top: 0;
   margin-left: 125px;
 }
+
+/*
+container2
+*/
+.container2{
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+}
+.container-child1 .my-mission{
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 1.1rem;
+}
+.my-mission .twok{
+  color: #FF7F50;
+}
+.container-child2{
+  margin-top: 17px;
+}
+.container-child2 .mission{
+  width: 32%;
+  height: 600px;
+  float: left;
+  background: #E0FFFF;
+  margin-left: 1.33%;
+  border-radius: 8px;
+  padding-bottom: 30px;
+}
+.mission .illustrator img{
+  width: auto;
+  height: 350px;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+}
+.mission .heading h2{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 1.7rem;
+}
+.mission .text p{
+  margin-left: 10px;
+  margin-top: 15px;
+  color:rgba(0, 0, 0, 0.781);
+}
+.container-child2 .vission{
+  width: 32%;
+  height: 600px;
+  float: left;
+  background: #90EE90;
+  margin-left: 1.33%;
+  border-radius: 8px;
+}
+.vission .illustrator img{
+  width: auto;
+  height: 350px;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+}
+.vission .heading h2{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 1.7rem;
+}
+.vission .text p{
+  margin-left: 10px;
+  margin-top: 15px;
+  color:rgba(0, 0, 0, 0.781);
+}
+.container-child2 .goals{
+  width: 32%;
+  height: 600px;
+  float: left;
+  background: #6495ED;
+  margin-left: 1.33%;
+  border-radius: 8px;
+}
+.goals .illustrator img{
+  width: auto;
+  height: 350px;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+}
+.goals .heading h2{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 1.7rem;
+}
+.goals .text p{
+  margin-left: 10px;
+  margin-top: 15px;
+  color:rgba(0, 0, 0, 0.781);
+}
