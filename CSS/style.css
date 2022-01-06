@@ -8,9 +8,11 @@ body{
 }
 .container1{
   width: 80%;
+  height: auto;
   margin: auto;
   padding-top: 55px;
   display: block;
+  overflow: hidden;
 }
 .container1 .left-side{
   width: 50%;
