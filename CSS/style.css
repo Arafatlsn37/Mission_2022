@@ -96,7 +96,6 @@ container2
   background: #E0FFFF;
   margin-left: 1.33%;
   border-radius: 8px;
-  padding-bottom: 30px;
 }
 .mission .illustrator img{
   width: auto;
@@ -164,4 +163,57 @@ container2
   margin-left: 10px;
   margin-top: 15px;
   color:rgba(0, 0, 0, 0.781);
+}
+
+/*
+container3
+*/
+
+.container3{
+  width: 80%;
+  height: auto;
+  margin:auto;
+  display: block;
+  overflow: hidden;
+  margin-top: 45px;
+}
+.container3 .container-child1{
+  width: 30%;
+  float: left;
+  overflow: hidden;
+}
+.container3 .container-child1 img{
+  width: 100%;
+  height: 100%;
+
+}
+.container3 .container-child2{
+  width: 55%;
+  float: left;
+  overflow: hidden;
+  margin-left: 5%;
+}
+.container-child2 .developer{
+  font-size: 1.6rem;
+  margin-top: 45px;
+}
+.container-child2 .without-limits{
+  font-size: 1.6rem;
+  margin-top: 20px;
+}
+.container-child2 .text{
+  margin-top: 15px;
+  color: rgba(0, 0, 0, 0.781);
+}
+.container-child2 .read-documents button{
+  padding: 8px 21px;
+  background-color: #FF6347;
+  margin-top: 15px;
+  border-radius: 7px;
+}
+.container-child2 .read-documents button a{
+  color: #F5F5F5;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
 }
