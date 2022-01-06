@@ -217,3 +217,131 @@ container3
   font-size: 1.1rem;
   font-weight: 600;
 }
+
+/*
+container 4
+*/
+
+
+.container4{
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+  margin-top: 45px;
+  position: relative;
+}
+.container4 .container4-child1{
+  width: 55%;
+  float: left;
+  overflow: hidden;
+  margin-left: 5%;
+}
+.container4 .container4-child1 .know-our {
+  font-size: 1.6rem;
+  margin-top: 45px;
+}
+.container4 .container4-child1 .global {
+  font-size: 1.6rem;
+  margin-top: 20px;
+}
+.container4 .container4-child1 .text {
+  margin-top: 15px;
+  color: rgba(0, 0, 0, 0.781);
+}
+.container4 .container4-child1 button{
+  padding: 8px 21px;
+  background-color: #FF6347;
+  margin-top: 15px;
+  border-radius: 7px;
+}
+.container4 .container4-child1 button a{
+  color: #F5F5F5;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.container5{
+  padding-bottom: 100px;
+}
+
+.container4 .container4-child2{
+  width: 30%;
+  float: left;
+  overflow: hidden;
+  margin-left: 5%;
+}
+.container4-child2 img{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/*
+container5
+*/
+
+.container5{
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: block;
+  overflow: hidden;
+  margin-top: 45px;
+  position: relative;
+}
+.container5 .checkout h1{
+  text-align: center;
+}
+.container5 .projects{
+  width: 100%;
+  margin-top: 30px;
+}
+.container5 .project1{
+  width: 48%;
+  float: left;
+  padding-right: 2%;
+}
+.container5 .project1 img{
+  width: 100%;
+  height: 100%;
+}
+.container5 .project2{
+  width: 48%;
+  float: left;
+  padding-left: 2%;
+}
+.container5 .project2 img{
+  width: 100%;
+  height: 100%;
+}
+
+/*
+container6
+*/
+
+.container6{
+  width: 100%;
+  background: black;
+  height: 140px;
+  overflow: hidden;
+}
+.container6 .all-text{
+  width: 100%;
+  margin-top: 30px;
+}
+.container6 .mission-text h1{
+  color: white;
+  text-align: center;
+  margin-top: 35px;
+}
+.container6 span{
+  color: #FF7F50;
+}
+.container6 .hard-work p{
+  color: dimgray;
+  text-align: center;
+}
+
